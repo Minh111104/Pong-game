@@ -48,7 +48,6 @@ Defines the `Ball` class, which handles ball movement, speed adjustment, and col
 
 ### `main.py`
 The main game loop, creating the screen, initializing the game objects, and handling user input and gameplay.
-
 ### `paddle.py`
 Defines the `Paddle` class, which manages paddle movement and initialization.
 
