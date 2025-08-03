@@ -53,3 +53,6 @@ Defines the `Paddle` class, which manages paddle movement and initialization.
 
 ### `scoreboard.py`
 Defines the `Scoreboard` class to track and display the scores for each player.
+
+## License
+This project is created for educational purpose.
